@@ -9,4 +9,4 @@ I am a jack-of-all-trades Software Engineer with experience in many different ki
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/parthsw">@parthsw</a></p>
+<p align="center">⭐️ From <a href="https://github.com/jdfellman">@jdfellman</a></p>
